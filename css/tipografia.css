@@ -1,0 +1,17 @@
+body {
+	font-family: Verdana,"Times New Roman",Arial,Sans-serif, Helvetica;
+}
+
+p {
+	text-align: justify;
+}
+
+h1 {
+	font-family: Verdana;
+	font-size: 28px;
+	font-style: italic;
+	font-weight: normal;
+	color: #4281ED;
+	text-align: center;
+	text-transform: uppercase;
+}

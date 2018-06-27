@@ -1,0 +1,17 @@
+@font-face {
+	font-family: "RobotoMono-Regular";
+	src:url('fonts/RobotoMono-Regular.ttf');
+}
+
+@font-face {
+	font-family: "RobotoMono-Bold";
+	src:url('fonts/RobotoMono-Bold.ttf');
+}
+
+body {
+	font-family: "RobotoMono-Bold";
+}
+
+h1{
+	font-weight: normal;
+}
